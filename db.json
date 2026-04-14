@@ -1,0 +1,93 @@
+{
+  "product": [
+    {
+      "name": "LOOSE FIT BERMUDA SHORTS",
+      "image": "https://i.postimg.cc/BnhWS8W2/Frame-34-(1).png",
+      "price": 200000,
+      "description": "3.0/5",
+      "category": "Thich thi them",
+      "id": 1
+    },
+    {
+      "name": "VERTICAL STRIPED SHIRT",
+      "image": "https://i.postimg.cc/N0VWXWjL/Frame-32-(1).png",
+      "price": 100000,
+      "category": "Áo",
+      "description": "5.0/5",
+      "id": 2
+    },
+    {
+      "name": "COURAGE GRAPHIC T-SHIRT",
+      "image": "https://i.postimg.cc/fTKpC3R6/Frame-33-(2).png",
+      "price": 4000,
+      "category": "Áo",
+      "description": "4.0/5",
+      "id": 3
+    },
+    {
+      "name": "FADED SKINNY JEANS",
+      "image": "https://i.postimg.cc/YqpyvpxH/Frame-38-(2).png",
+      "price": 90000,
+      "category": "Quần",
+      "description": "4.5/5",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "name": "Quần",
+      "id": 1
+    },
+    {
+      "name": "Áo",
+      "id": 2
+    },
+    {
+      "name": "Thich thi them",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "tvan2003@gmail.com",
+      "password": "$2a$10$1IWpbERtSNtzzicMhdsVx.DBTGzumSHRWjccOIxbJAicVIF7zRtRq",
+      "id": 1
+    },
+    {
+      "email": "tv2002@gmail.com",
+      "password": "$2a$10$ZI5uX0MtnD2nlGqWAykDfO3RQvFdb8c3qlTQprdsWogErlryTRLaa",
+      "id": 2
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$wi8cVWwQqJUlyYkdyxLy7usXn5e1k2xJFOMgU569E/.XLglXlzCZS",
+      "id": 3
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$Vykmr.y25JB1RG4k2xeSpukykq4rree6p3Tzlrmc6AvQmwLGfjjmK",
+      "id": 4
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$KBFu/HiqJK.CWPwUeRHK.OnMxBSGJw1utWs2JJaJQ0VLiihVrc09y",
+      "id": 5
+    },
+    {
+      "email": "test3@gmail.com",
+      "password": "$2a$10$0Nl12V3NDg5wlzic6g098./v4ER1btWtu6KCL4eNFVls2nIGq.lxy",
+      "id": 6
+    },
+    {
+      "email": "test4@gmail.com",
+      "password": "$2a$10$qEUJzMYg4ZseaA/H/l0jFOc0vvOS3RGSy1dKRutxlNtYT6LBNjwRa",
+      "role": "admin",
+      "id": 7
+    },
+    {
+      "email": "test6@gmail.com",
+      "password": "$2a$10$CUERJOxCekuVuoMnjMWRw.MH/RaU3xbJuoQt6S2QUjLkqd0MxhA12",
+      "id": 8
+    }
+  ]
+}
