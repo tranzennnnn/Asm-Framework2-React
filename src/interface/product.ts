@@ -4,7 +4,8 @@ export interface IProduct {
   image: string;
   price: number;
   description: string,
-  category: string
+  category: string,
+  rating:string
 }
 export type TProduct = Omit<IProduct, "id">
 
