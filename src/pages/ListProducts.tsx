@@ -61,10 +61,6 @@ const ListProducts = ({ products = [] }: Props) => {
                 {item.name}
               </h3>
 
-              <div className="text-xs sm:text-sm">
-                ⭐⭐⭐⭐⭐ <span>{item.rating}</span>
-              </div>
-
               <p className="font-bold text-sm sm:text-base md:text-lg">
                 ${item.price}
               </p>
